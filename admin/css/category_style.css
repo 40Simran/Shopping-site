@@ -1,0 +1,40 @@
+.form{
+	height:400px;
+	width:40%;
+	padding-left:50px;
+	margin:0 auto;
+	}
+
+
+.form input[type=text]{
+	margin-top:20px;
+	height:11px;
+	width:150px;
+	padding:20px;
+	border-radius: 18px;
+	border:1px solid #CCC;
+	}
+
+.form textarea{
+	height:100px;
+	width:250px;
+	margin:20px;}
+
+.form .button{
+	height:30px;
+	width:200px;
+border-color: transparent;
+color: #ffffff !important;
+	border-radius: 18px;
+	border:1px solid #FFF;
+	margin-top:20px;}
+
+.form .button input[type=submit]{
+	height:30px;
+	width:200px;
+	background:#9cc222;
+border-color: transparent;
+color: #ffffff !important;
+	border-radius: 18px;
+	font-weight:700;
+	}
