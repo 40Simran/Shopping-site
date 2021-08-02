@@ -1,0 +1,32 @@
+
+.products
+{
+	width:100%;
+	height:auto;
+	padding-top:20px;
+	background: #96;
+}
+.products_list a
+{
+	color:#535353;
+}
+
+
+.products_list img
+{
+	height:200px;
+	width:200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.products_list{
+   display: inline;
+	margin-left:20px;
+	margin-top:20px;
+	padding:10px;
+	color:#333;
+	font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+

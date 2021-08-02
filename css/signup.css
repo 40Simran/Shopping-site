@@ -1,0 +1,156 @@
+*{
+margin:0px;
+padding:0px;	
+}
+
+.content{
+width:60%;
+background:#FFF;	
+margin:0 auto;
+	
+}
+
+.signup{
+	width:50%;
+	position:relative; 
+	float:left;
+}
+
+.hsignup{
+	position:relative; 
+	font-family:sans-serif;
+		font-weight:bold;
+		margin-left:30px; 
+		font-size:1.5em;
+		top:10px;
+		color:#333;
+			
+}
+.table{
+   margin-left:0px; 
+   margin-top:15px;
+   width:100%;
+   border-right:2px solid #999;
+    	
+}
+#iname,#iuser,#iemail,#ipass,#iconpass, #phone,#address{
+margin-top:10px;
+	height:30px;
+	width:90%;
+	font-size: 1.1em;
+	padding-left: 5px;
+	margin-left:30px;
+border: 1px solid rgba(0,0,0,0.3);   	
+}
+span{
+	font-size: 1.1em;
+	margin-left:30px;
+}
+
+#isignup{
+	margin-left: 30px;
+	display: block;
+	width:42.4%;
+	height:35px;
+	border-radius: 2px;
+	background-color: #00B279;
+	border:none;
+	color:white;
+	font-family: sans-serif;
+	cursor: pointer;
+	margin-top:10px;
+	
+}
+#isignup:hover{
+	background-color:#7323DC;
+}
+
+.signin{
+	width:49%;
+	height:480px;
+	float:left;
+}
+.hsignin{
+	position:relative; 
+	
+		font-family:sans-serif;
+		font-weight:bold;
+		margin-left:30px; 
+		font-size:1.5em;
+		top:10px;
+		color:#333;
+			
+}
+.tablein{
+   margin-left:0px; 
+   margin-top:20px;
+   height:400px; 	
+}
+
+#lemail, #lpass{
+margin-top:20px;
+	height:30px;
+	width:90%;
+	font-size: 1.1em;
+	padding-left: 5px;
+	margin-left:30px;
+border: 1px solid rgba(0,0,0,0.3);
+   	
+}
+#lsignin,#rsignup{
+	margin-top:20px;
+	margin-left: 30px;
+	display: block;
+	width:42.4%;
+	height:35px;
+	border-radius: 2px;
+	background-color: #00B279;
+	border:none;
+	color:white;
+	font-family: sans-serif;
+	cursor: pointer;
+	
+}
+#lsignin:hover{
+	background-color:#7323DC;
+}
+.forgot{
+position:absolute;
+font-family:sans-serif;
+font-size:.8em;
+color:#F4041E;
+margin-top:15px;
+	margin-left: 30px;	
+	text-decoration:underline;
+}
+.forgotpass{
+margin-left:0px; 
+   margin-top:20px;	
+}
+#remail{
+margin-top:30px;
+	height:30px;
+	width:90%;
+	font-size: 1.1em;
+	padding-left: 5px;
+	margin-left:30px;
+border: 1px solid rgba(0,0,0,0.3);
+   	
+}
+#rsignin{
+	margin-top:20px;
+	margin-left: 30px;
+	display: block;
+	width:42.4%;
+	height:35px;
+	border-radius: 2px;
+	background-color: #00B279;
+	border:none;
+	color:white;
+	font-family: sans-serif;
+	cursor: pointer;
+	
+}
+#rsignin:hover{
+	background-color:#7323DC;
+}
